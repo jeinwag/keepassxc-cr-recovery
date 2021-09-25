@@ -5,7 +5,7 @@ Currently supports KDBX4 databases with Argon2 hashing.
 
 ## Building
 
-Tested with Go 1.13. Just run `go build`.
+Tested with Go 1.16. Just run `go build`.
 
 ## Usage
 
